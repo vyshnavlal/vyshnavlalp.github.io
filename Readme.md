@@ -12,7 +12,7 @@ A simple portfolio which is easy to edit and easy to deploy.
 `git clone https://github.com/vyshnavlal/vyshnavlalp.github.io.git`
 
 # Make Your Edits
-- Edit [index.html](https://github.com/CyberBoyAyush/Simple-Portfolio/tree/master/index.html) file according to your preference.
+- Edit [index.html]([https://github.com/CyberBoyAyush/Simple-Portfolio/tree/master/index.html](https://github.com/vyshnavlal/vyshnavlalp.github.io/blob/master/index.html)) file according to your preference.
 - Change or edit links according to you.
 
 # Credits
