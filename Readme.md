@@ -1,7 +1,7 @@
 # Simple-Portfolio
 A simple portfolio which is easy to edit and easy to deploy.
 
-<p align="center"><img src="./kt.gif" /></p>
+<p align="center"><img src="./preview.gif" /></p>
 
 # Features
 - [X] Good Looking Design
